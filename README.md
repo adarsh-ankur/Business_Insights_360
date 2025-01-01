@@ -59,7 +59,7 @@ Key practices followed:
 
 The dashboard was designed to address all stakeholder needs, with views tailored for **finance, sales, marketing, supply chain, and executive-level** insights. Here’s a breakdown of the key components:
 
-# Home View
+### Home View
 
 A landing page with buttons for navigation to different views:
 
