@@ -25,18 +25,18 @@ This initial phase was critical to ensure alignment with business needs and to a
 
 Once the project goals were clear, I explored the data the data engineering team provided. Here's a high-level view of the datasets:
 
-# Dimension Tables
+### Dimension Tables
 
 - **dim_customer:** Includes static details like customer names, markets, and platforms (e.g., Brick & Mortar, E-commerce).
 - **dim_market:** Contains information on 27 distinct markets, 7 sub-zones, and 4 regions (APAC, EU, LATAM, and NAN).
 - **dim_product:** Lists product categories and divisions, such as PCs, peripherals, and networking equipment.
 
-# Fact Tables
+### Fact Tables
 
 - **fact_forecast_monthly:** Holds forecasted customer demand for improved inventory planning and cost optimization.
 - **fact_sales_monthly:** Similar to the forecast table, but includes actual sold quantities.
 
-# Additional Tables
+### Additional Tables
 
 - **freight_cost:** Transportation costs for each market.
 - **gross_price:** Product pricing details.
@@ -70,19 +70,19 @@ A landing page with buttons for navigation to different views:
 - Supply Chain View
 - Executive View
 
-# Finance View
+### Finance View
 Focused on metrics like net sales, gross margin, and profitability trends, helping stakeholders track financial performance over time.
 
-# Sales View
+### Sales View
 Provided insights into top-performing products and customer segmentation.
 
-# Marketing View
+### Marketing View
 Included actionable data on campaign performance and strategies to boost gross margins and profitability.
 
-# Supply Chain View
+### Supply Chain View
 Analyzed demand forecasts, inventory management, and logistics costs for improved operational efficiency.
 
-# Executive View
+### Executive View
 A high-level summary of the company’s overall performance, including revenue trends, market share, and key metrics for decision-making.
 
 ## 🔧 Techniques & Tools Used
@@ -116,7 +116,7 @@ This dashboard has transformed how AtliQ Hardware approaches decision-making. St
 - By implementing Power BI, AtliQ Hardware has taken the first step toward building a robust analytics culture, setting them up for success in a competitive market.
 
 ## 📂 Resources
-- GitHub Repository: https://lnkd.in/grDksfDY
+- GitHub Repository: 
 - Live Report: [[Business Insights 360](https://app.powerbi.com/links/23vrBin1Pf?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=774945f8-0fab-4cc0-8879-c9da7d9954b0)]
 
 
