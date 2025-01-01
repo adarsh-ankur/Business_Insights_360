@@ -55,6 +55,9 @@ Key practices followed:
 - Using surrogate keys for relationships.
 - Creating a date table using M language for consistent time-based analysis.
 
+![Mapping](https://github.com/user-attachments/assets/f33f824b-a3d4-40e5-93ea-8e8348dd905c)
+
+
 ## 📊 Dashboard Design
 
 The dashboard was designed to address all stakeholder needs, with views tailored for **finance, sales, marketing, supply chain, and executive-level** insights. Here’s a breakdown of the key components:
