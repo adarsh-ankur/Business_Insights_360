@@ -151,8 +151,7 @@ This dashboard has transformed how AtliQ Hardware approaches decision-making. St
   
 By implementing Power BI, AtliQ Hardware has taken the first step toward building a robust analytics culture, setting them up for success in a competitive market.
 
-## 📂 Resources
-- GitHub Repository: 
+## 📂 Resources 
 - Live Report: [[Business Insights 360](https://app.powerbi.com/links/23vrBin1Pf?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=774945f8-0fab-4cc0-8879-c9da7d9954b0)]
 
 
