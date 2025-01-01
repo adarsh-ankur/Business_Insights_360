@@ -78,6 +78,10 @@ A landing page with buttons for navigation to different views:
 ### Finance View
 Focused on metrics like net sales, gross margin, and profitability trends, helping stakeholders track financial performance over time.
 
+
+https://github.com/user-attachments/assets/db8ac97e-0138-4b1b-93f7-d1533d48d4b3
+
+
 ### Sales View
 Provided insights into top-performing products and customer segmentation.
 
