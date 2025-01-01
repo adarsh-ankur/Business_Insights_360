@@ -95,7 +95,11 @@ This project required me to master several Power BI features and techniques, inc
 - Conditional Formatting: Using icons and background colors to highlight key insights.
 - KPI Indicators: Representing progress visually.
 - Data Validation: Ensuring accuracy by cross-referencing with raw data.
+- Power BI Desktop: Crafted interactive dashboards.
+- SQL: For data sets and optimizing.
 - Power BI Service: Publishing reports, setting up auto-refresh with a personal gateway, and managing access permissions.
+- DAX Studio: Optimized performance for efficient reporting.
+- Excel: Provided by stakeholders for reference User Acceptance Testing (UAT) report creation.
 
 ## 📝 Key Business Concepts Learned
 
@@ -104,6 +108,12 @@ This project also deepened my understanding of several key business terms, such 
 - Net Invoice Sales (NIS): Revenue after pre- and post-invoice deductions.
 - Gross Margin: A measure of profitability.
 - COGS (Cost of Goods Sold): Direct costs associated with producing goods.
+- Gross Margin: Sales minus the cost of goods sold.
+- Gross Margin %: Percentage of profit from sales.
+- Market Share %: Company’s sales compared to the whole market.
+- Forecast Accuracy: How close sales predictions are to actual sales.
+- Net Error: Difference between actual and predicted results.
+- Absolute Error: The exact difference between actual and predicted results.
 - YTD (Year to Date) & YTG (Year to Go): Metrics to track progress over time.
 
 ## 🚀 Project Outcome
