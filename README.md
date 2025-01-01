@@ -85,14 +85,30 @@ https://github.com/user-attachments/assets/db8ac97e-0138-4b1b-93f7-d1533d48d4b3
 ### Sales View
 Provided insights into top-performing products and customer segmentation.
 
+
+https://github.com/user-attachments/assets/0d5209e1-462a-42e7-be33-e06cfc2f212c
+
+
 ### Marketing View
 Included actionable data on campaign performance and strategies to boost gross margins and profitability.
+
+
+https://github.com/user-attachments/assets/237dde06-15c8-45e8-a0a3-6fe385d4e0af
+
 
 ### Supply Chain View
 Analyzed demand forecasts, inventory management, and logistics costs for improved operational efficiency.
 
+
+https://github.com/user-attachments/assets/469920b6-6ac7-4924-955c-10fe95037b95
+
+
 ### Executive View
 A high-level summary of the company’s overall performance, including revenue trends, market share, and key metrics for decision-making.
+
+
+https://github.com/user-attachments/assets/0add388a-947c-4dbb-b61b-d18502875d2e
+
 
 ## 🔧 Techniques & Tools Used
 
