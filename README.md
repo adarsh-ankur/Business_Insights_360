@@ -123,7 +123,8 @@ This dashboard has transformed how AtliQ Hardware approaches decision-making. St
 - Why are certain markets underperforming?
 - Which products need more attention?
 - How can we optimize inventory and reduce costs?
-- By implementing Power BI, AtliQ Hardware has taken the first step toward building a robust analytics culture, setting them up for success in a competitive market.
+  
+By implementing Power BI, AtliQ Hardware has taken the first step toward building a robust analytics culture, setting them up for success in a competitive market.
 
 ## 📂 Resources
 - GitHub Repository: 
