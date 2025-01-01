@@ -73,7 +73,7 @@ A landing page with buttons for navigation to different views:
 - Supply Chain View
 - Executive View
 
-<img width="730" alt="Home Page" src="https://github.com/user-attachments/assets/f2f12210-45e6-44e7-ba3b-dc9f855b2079" />
+<img width="830" alt="Home Page" src="https://github.com/user-attachments/assets/f2f12210-45e6-44e7-ba3b-dc9f855b2079" />
 
 ### Finance View
 Focused on metrics like net sales, gross margin, and profitability trends, helping stakeholders track financial performance over time.
